@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529388072551",
+    "project_id": "yazn-e0652",
+    "storage_bucket": "yazn-e0652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529388072551:android:a80b063ef8096e9259aec2",
+        "android_client_info": {
+          "package_name": "com.example.playing_with_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529388072551-g1do3eul8k9cbqbm11rqbi8s6tpjf2oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvDNUfvr4W6sQxW4Kq2JbqP_0IeWF22Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529388072551-g1do3eul8k9cbqbm11rqbi8s6tpjf2oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
